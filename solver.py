@@ -2,7 +2,7 @@ import tls_client, random, urllib, time, requests, os, json
 import speech_recognition as sr
 from bda import get_bda as bda
 
-# MADE BY Pr0t0n
+# MADE BY SudoKrypt
 # AUDIO replacement dict taken from useragents
 
 
