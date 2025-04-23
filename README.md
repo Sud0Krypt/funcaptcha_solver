@@ -4,8 +4,6 @@
 
 **Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx) on Telegram
 
-Telegram Channel - [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
-
 Funcaptcha Solver Made by SudoKrypt
 
 ## Features
