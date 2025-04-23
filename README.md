@@ -1,6 +1,8 @@
 # Funcaptcha Audio Solver
 
-Feel free to contact [@go0go0fo0go0](https://t.me/go0go0fo0go0) on Telegram
+**Tele Contact:** [@sudodaemonn](https://t.me/sudodaemonn)
+
+**Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)go0) on Telegram
 
 Telegram Channel - [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
 
