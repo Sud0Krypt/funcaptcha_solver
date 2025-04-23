@@ -2,7 +2,7 @@
 
 **Tele Contact:** [@sudodaemonn](https://t.me/sudodaemonn)
 
-**Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)go0) on Telegram
+**Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx) on Telegram
 
 Telegram Channel - [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
 
