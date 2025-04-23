@@ -1,6 +1,6 @@
 # Funcaptcha Audio Solver
 
-Feel free to contact [@sudodaemonn](https://t.me/sudodaemonn) on Telegram if you're looking to purchase a stable funcaptcha solution.
+Feel free to contact [@go0go0fo0go0](https://t.me/go0go0fo0go0) on Telegram
 
 Telegram Channel - [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
 
