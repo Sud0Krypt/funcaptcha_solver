@@ -1,8 +1,8 @@
 # Funcaptcha Audio Solver
 
-**Tele Contact:** [@sudodaemonn](https://t.me/sudodaemonn)
+**Tele Contact:** [@sudodaemonnn](https://t.me/sudodaemonnn)
 
-**Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx) on Telegram
+**Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
 
 Funcaptcha Solver Made by SudoKrypt
 
