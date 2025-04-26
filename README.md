@@ -4,7 +4,7 @@
 
 **Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
 
-Funcaptcha Solver Made by SudoKrypt
+Funcaptcha Solver Made by SudoKrypt for Roblox, Outlook, etc.
 
 ## Features
 
