@@ -9,24 +9,41 @@ Funcaptcha Solver Made by SudoKrypt
 ## Features
 
  • Proxy/Proxyless HTTP(S) Support
+
  • 100% Requests-Based (no browser automation)
+
  • Quick Solve Time
+
  • v1 Funcaptcha Audio Solver
-	•	Custom User-Agent Option (for advanced users seeking higher quality responses)
-	•	Retries Option (set number of attempts before giving up)
-	•	Class Args/Params Explained:
-	•	host (required): Website URL you’re trying to solve for (sometimes optional, depending on the site).
-	•	site_key (required): Funcaptcha Site Key for the target site.
-	•	ua (optional): Custom User-Agent for more advanced control.
-	•	proxy (optional): Use rotating/static proxies to solve with proxy support.
-	•	retries (optional): Number of solve attempts before giving up (recommended 5–6 retries for better success rate).
-	•	Extra:
+	
+ • Custom User-Agent Option (for advanced users seeking higher quality responses)
+
+ • Retries Option (set number of attempts before giving up)
+	
+ • Class Args/Params Explained:
+	
+ • host (required): Website URL you’re trying to solve for (sometimes optional, depending on the site).
+	
+ • site_key (required): Funcaptcha Site Key for the target site.
+	
+ • ua (optional): Custom User-Agent for more advanced control.
+	
+ • proxy (optional): Use rotating/static proxies to solve with proxy support.
+
+ • retries (optional): Number of solve attempts before giving up (recommended 5–6 retries for better success rate).
+	
+Extra:
 	•	Pull Requests (PRs) are welcome!
-	•	Looking for contributions on:
-	•	Unflagged BDA methods
-	•	Bio methods
-	•	Improved audio recognition
-	•	(Please no typo-only PRs.)
+
+ • Looking for contributions on:
+
+ • Unflagged BDA methods
+
+ • Bio methods
+	
+ • Improved audio recognition
+	
+ •	(Please no typo-only PRs.)
 
 ## Extra Credits: 
 
