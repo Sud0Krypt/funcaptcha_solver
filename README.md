@@ -8,12 +8,9 @@ Funcaptcha Solver Made by SudoKrypt
 
 ## Features
 
-	•	Proxy/Proxyless HTTP(S) Support
-	
+ • Proxy/Proxyless HTTP(S) Support
  • 100% Requests-Based (no browser automation)
-	
  • Quick Solve Time
-	
  • v1 Funcaptcha Audio Solver
 	•	Custom User-Agent Option (for advanced users seeking higher quality responses)
 	•	Retries Option (set number of attempts before giving up)
