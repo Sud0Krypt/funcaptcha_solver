@@ -58,6 +58,8 @@ Extra:
 
  • Code was written on Replit using a Chromebook — done casually, so don’t judge the formatting too harshly.
 
-If you want to use a new proxy & Session you will need to call the class along with the solve function Example: Funcap(site_key="").solve() # As you can see im calling the class itself along with the function
+ • If you want to use a new proxy & Session you will need to call the class along with the solve function 
+
+Example: Funcap(site_key="").solve() # As you can see im calling the class itself along with the function
 
 (this repo will not be updated because I am currently running an active private solution)
