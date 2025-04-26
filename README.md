@@ -48,7 +48,11 @@ Extra:
 
 ## Extra Credits: 
 
-useragents (High Audio Quality Dictonary); imvast (providing me with the bda src code even though he didn't make it); tranny & keepitlowkey (AES Encryption method src)
+ • Useragents: High audio quality dictionary.
+	
+ •	imvast: Provided the BDA source code (credit even though they weren’t the original creator).
+	
+ •	tranny & keepitlowkey: Provided the AES encryption method source code.
 
 ## Notes 
 
