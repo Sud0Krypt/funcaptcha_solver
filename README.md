@@ -32,7 +32,7 @@ Funcaptcha Solver Made by SudoKrypt
 
  • retries (optional): Number of solve attempts before giving up (recommended 5–6 retries for better success rate).
 	
-Extra:
+## Extras:
 	
  •	Pull Requests (PRs) are welcome!
 
